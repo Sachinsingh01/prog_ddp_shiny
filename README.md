@@ -27,4 +27,6 @@
 ### Note:
 Make sure you have ggplot2 package installed on your machine otherwise one of the plot of the app will throw error.
 
+If you are unable to run the app at all then I have also copied Project_ Developing Data Products view 1.pdf & Project_ Developing Data Products view 2.pdf files in the repository to just to show how the app looks like.
+
 Thanks!

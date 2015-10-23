@@ -21,6 +21,12 @@ with R. This dataset was originally part of package nlme, and that has methods (
 SSlogis() function speeds up the fit by about 15%, because in addition to providing initial
 conditions SSlogis() also returns an analytically computed gradient of the sum-of-squares function."),
 
+ strong("How to use the App:"),
+ p(""),
+ p("Select a tree in the radio group and see reactive output in the plot, function result in the summary and model tabs."),
+ p("Move the Tree Age in days: (Apply Predict function) slider bar to set the tree age and see predict function output (in the form of line) instantly."),
+ p("If you select All Tree option in the radio box then slider bar will disappear you would see results for all the trees in the form of coplot and gplot."),
+ 
   # Sidebar with controls to select the random distribution type
   # and number of observations to generate. Note the use of the
   # br() element to introduce extra vertical spacing
